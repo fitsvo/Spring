@@ -1,0 +1,17 @@
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Product's repository</title>
+</head>
+
+<body>
+<h1>All products:</h1>
+<table>
+    <tr th:each="${product}">
+        <td><p th:text="${product.getId()}"></p></td>
+        <td><p th:text="${product.getTitle()}"></p></td>
+        <td><p th:text="${product.getPrice()}"></p></td>
+    </tr>
+</table>
+
+</body>
+</html>
