@@ -1,0 +1,10 @@
+ru/geekbrains/Ls5Application.java
+ ru.geekbrains.Ls5Application
+ru/geekbrains/controller/CatalogController.java
+ ru.geekbrains.controller.CatalogController
+ru/geekbrains/controller/AddController.java
+ ru.geekbrains.controller.AddController
+ru/geekbrains/model/dao/ProductDao.java
+ ru.geekbrains.model.dao.ProductDao
+ru/geekbrains/model/entity/Product.java
+ ru.geekbrains.model.entity.Product
